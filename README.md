@@ -1,6 +1,6 @@
 # dio-desafio-github-primeiro-repositorio
 
-Repositório do primeiro projeto do GitHub.. 
+Repositório do primeiro projeto do GitHub..
 
 Descrição do Desafio.
 
